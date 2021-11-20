@@ -1,2 +1,2 @@
-# micropox
-Eugenicsware
+![Micropox Logo](/micropox.png)
+
